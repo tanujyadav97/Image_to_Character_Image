@@ -2,9 +2,15 @@
 This script converts rgb images to beautiful character images .
 
 ## Some examples
-![boy](https://user-images.githubusercontent.com/28782018/47970422-30597a80-e0ab-11e8-9b18-b2642b840c64.PNG)
-![boycart](https://user-images.githubusercontent.com/28782018/47970423-30f21100-e0ab-11e8-8993-5d4fca40c96a.PNG)
-![hackerearth](https://user-images.githubusercontent.com/28782018/47970424-30f21100-e0ab-11e8-97de-1cfe03d302f0.PNG)
-![rahul](https://user-images.githubusercontent.com/28782018/47970425-30f21100-e0ab-11e8-8b9b-f728d6f6ec60.PNG)
-![tanuj](https://user-images.githubusercontent.com/28782018/47970426-318aa780-e0ab-11e8-8013-691294459f6e.PNG)
-![utkarsh](https://user-images.githubusercontent.com/28782018/47970427-318aa780-e0ab-11e8-96ff-ded0ba34de80.PNG)
+With Resized Original Image
+![captur7e](https://user-images.githubusercontent.com/28782018/48287973-a5082c80-e490-11e8-8480-44856020f9aa.PNG)
+With Original Image
+![pubg](https://user-images.githubusercontent.com/28782018/48288003-b8b39300-e490-11e8-9034-2a1021c5dc8e.PNG)
+
+Other Images with Scaled Original Images
+![captu3re](https://user-images.githubusercontent.com/28782018/48288082-fe705b80-e490-11e8-996b-de992e1c78aa.PNG)
+![captu5re](https://user-images.githubusercontent.com/28782018/48288083-fe705b80-e490-11e8-8aec-20532337aaed.PNG)
+![captu6re](https://user-images.githubusercontent.com/28782018/48288084-ff08f200-e490-11e8-8731-942d73288eb1.PNG)
+![captur2e](https://user-images.githubusercontent.com/28782018/48288086-ff08f200-e490-11e8-87f8-9ecc1b93ca34.PNG)
+![ca4pture](https://user-images.githubusercontent.com/28782018/48288087-ff08f200-e490-11e8-93b1-f0ec28d8e381.PNG)
+![capt1ure](https://user-images.githubusercontent.com/28782018/48288088-ffa18880-e490-11e8-80a9-9438852a06e5.PNG)
